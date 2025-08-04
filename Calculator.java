@@ -47,7 +47,7 @@ public class Calculator
                 case 4:
                     {
                         try{
-                             double ans = a%b;
+                             double ans = a/b;
                                 System.out.println("Division are ="+ans);
                                 break;
                         }catch(Exception e){
